@@ -1,10 +1,20 @@
-# DevOps Project with Git
-## Overview
-A version-controlled DevOps project.
-## Setup
-- Clone repo: `git clone <https://github.com/NishantPatil01/VersionControl-Project.git>`
-- Checkout to feature branch: `git checkout feature-branch`
-## Branching Strategy
+# Version-Controlled DevOps Project with Git
+
+## **Objective**
+Manage a DevOps project using Git best practices.
+
+## **Tools Used**
+- Git
+- GitHub
+
+## **Project Setup**
+### **1. Initialize the Repository & Push to GitHub**
+- Create a new repository on GitHub.
+- Initialize locally:
+  ```bash
+  git init.
+
+### *Branching Strategy*
 - `main` → Production-ready
 - `dev` → Development branch
 - `feature-*` → Individual feature branches
