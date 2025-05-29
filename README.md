@@ -8,7 +8,7 @@ Manage a DevOps project using Git best practices.
 - GitHub
 
 ## **Project Setup**
-### **1. Initialize the Repository & Push to GitHub**
+### **. Initialize the Repository & Push to GitHub**
 - Create a new repository on GitHub.
 - Initialize locally:
   ```bash
